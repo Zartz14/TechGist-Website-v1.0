@@ -65,20 +65,10 @@ This creates a **long-term knowledge archive** for UQUCC.
 
 ## 📸 Screenshots
 
-(Add screenshots of the homepage, newsletter pages, and archive layout here)
-
-Example structure:
-
-screenshots/
-
-* homepage.png
-* newsletter-page.png
-* archive-view.png
-
 ---
-
 ## 📂 Repository Structure
 
+```
 project-root
 │
 ├── README.md
@@ -88,8 +78,8 @@ project-root
 │   └── archive-view.png
 │
 └── assets/
-└── images or other media files
-
+    └── images or other media files
+```
 ---
 
 ## 🚀 Future Improvements
@@ -111,8 +101,4 @@ Developed and designed by **Ziad**.
 Student at **Umm Al-Qura University (UQU)**
 Interested in technology, AI, and digital product development.
 
----
 
-## 📜 License
-
-This project is for educational and organizational use related to UQUCC activities.
